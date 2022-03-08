@@ -1,0 +1,31 @@
+_repo: Il-libro-dei-miraggi_67559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jolanda
+    aliases:
+    - Plattis, Maria Majocchi
+    - Majocchi Plattis, Maria
+    birthdate: 1864
+    deathdate: 1917
+    gutenberg_agent_id: '39613'
+    url: http://www.gutenberg.org/2009/agents/39613
+description: ''
+gutenberg_issued: '2022-03-04'
+identifiers:
+  gutenberg: '67559'
+language: it
+pgterms:marc904: https://archive.org/details/illibrodeimiragg00majo
+pgterms:marc905: 20210104083337majocchipl
+pgterms:marc906: '1894'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Cappelli,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Il libro dei miraggi
+url: http://www.gutenberg.org/ebooks/67559
